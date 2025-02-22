@@ -28,9 +28,9 @@ Ensure you have `python3` installed.
 python app.py
 ```
 ### **restart/run UI
-'''bash
+```bash
 streamlit run ui.py
-'''
+```
 This starts the application where you can input natural language queries.
 
 ### **Example Query**
