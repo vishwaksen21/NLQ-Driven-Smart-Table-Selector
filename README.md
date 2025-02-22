@@ -27,7 +27,7 @@ Ensure you have `python3` installed.
 ```bash
 python app.py
 ```
-### **restart/run UI
+### restart/run UI
 ```bash
 streamlit run ui.py
 ```
